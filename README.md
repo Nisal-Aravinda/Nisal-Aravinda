@@ -6,14 +6,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 **Currently working on:** [Your Main Project / Portfolio]
-- 🌱 **Learning & Improving:** [New Tech or Framework you're exploring]
-- 👯 **Looking to collaborate on:** Open-source projects and innovative tech tools
-- 💬 **Ask me about:** JavaScript, Python, Web Development, or Software Engineering
-- 📫 **How to reach me:** [nisalaravinda2004@icloud.com]
-- ⚡ **Fun fact:** [cording]
 
 ---
 
@@ -27,12 +19,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nisal-Aravinda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nisal's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-Aravinda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
